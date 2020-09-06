@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('島村'),
+        title: Text('島村裕太'),
         actions: <Widget>[
           Icon(Icons.add),
         ],
