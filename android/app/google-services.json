@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677316080574",
+    "firebase_url": "https://coriander-app-3bb0f.firebaseio.com",
+    "project_id": "coriander-app-3bb0f",
+    "storage_bucket": "coriander-app-3bb0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677316080574:android:e04399294ff7afb9a6bfef",
+        "android_client_info": {
+          "package_name": "com.charakuri8.coriander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677316080574-pf9i7ju8fsvom2iinm3s9edr4665kkfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkB9tGeEOx4zE4uvUVcphu9RUD9IIqGig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677316080574-pf9i7ju8fsvom2iinm3s9edr4665kkfe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677316080574-7bse2stcp8hpp2himi6of2nquc9l6ler.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.charakuri8.coriander"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

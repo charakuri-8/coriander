@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 class MainModel extends ChangeNotifier{
-  String MessageText = 'うわあああああ!1';
+  String messageText = 'うわあああああ!';
 
   void changeMessageText(){
-    MessageText = 'uwaaaaaaa!!';
+    messageText = 'uwaaaaaaa!!';
     notifyListeners();
 
   }
